@@ -3,8 +3,8 @@
 If you manage a fleet of assets (like testing devices) in an organization, you might have come across the challenge of tracking their status and who is using them.
 This Django application has been built with the aim of solving this issue. 
 
-[](https://raw.githubusercontent.com/marco-lancini/asset-management/master/.github/asset_2.jpg)
-[](https://raw.githubusercontent.com/marco-lancini/asset-management/master/.github/asset_3.jpg)
+![](https://raw.githubusercontent.com/marco-lancini/asset-management/master/.github/asset_2.jpg)
+![](https://raw.githubusercontent.com/marco-lancini/asset-management/master/.github/asset_3.jpg)
 
 
 
