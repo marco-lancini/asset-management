@@ -5,6 +5,7 @@ This Django application has been built with the aim of solving this issue.
 
 ![](https://raw.githubusercontent.com/marco-lancini/asset-management/master/.github/asset_2.jpg)
 ![](https://raw.githubusercontent.com/marco-lancini/asset-management/master/.github/asset_3.jpg)
+![](https://raw.githubusercontent.com/marco-lancini/asset-management/master/.github/asset_4.jpg)
 
 
 
